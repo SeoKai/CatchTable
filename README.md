@@ -1,6 +1,7 @@
 # CatchTable
 
-![image](https://github.com/user-attachments/assets/a767391f-33eb-4ebd-8488-b7bcac45ad36)
+![image](https://github.com/user-attachments/assets/24b61b4e-b352-4497-a2bb-eef4d4ac1cc5)
+
 
 ### 프로젝트 개요
 - **프로젝트 이름**: CatchTable
