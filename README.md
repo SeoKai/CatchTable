@@ -1,7 +1,8 @@
 # CatchTable
 
 ![image](https://github.com/user-attachments/assets/24b61b4e-b352-4497-a2bb-eef4d4ac1cc5)
-
+### 노션 링크
+https://seong-kai.notion.site/Catch-Table-133fcab0377c802a8647d89c8c9a9845?pvs=4
 
 ### 프로젝트 개요
 - **프로젝트 이름**: CatchTable
